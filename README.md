@@ -1,5 +1,6 @@
 # Text-relevance-comparison
-2019级数据结构课程综合项目——使用C语言实现基于词频的文本相关性比较  
+数据结构课程综合项目——使用C语言实现基于词频的文本相关性比较  
+Term Project of Data Structures and Programming -  Using C language to realize word frequency based text relevance comparison
   
  1.    首先分别统计所提供的两个文本文件中单词出现频率（即出现次数）。
 为了提高算法的准确性，在此只统计字典中出现且不为停用词（stop-word）的单词。单词为仅由字母组成的字符序列，包含大写字母的单词将大写字母转换为小写字母后进行词频统计。提供字典“dictionary.txt”文件和英文停用词表“stopwords.txt”文件。  
